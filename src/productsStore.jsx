@@ -1,20 +1,22 @@
-// Coffee: price_1LnUTFDM1jwCEz8OGoOSXiSM
-// Sunglasses: price_1LnUTxDM1jwCEz8OAqHYTwKQ
-// Camera: price_1LnUUoDM1jwCEz8OvxIcJ7to
+
+
+/* coffeeId=price_1NxEjKALqsWPo0rqkj0VDe5E
+sunglassesId=price_1NxEmzALqsWPo0rqJjH7ZEon
+cameraId=price_1NxEo2ALqsWPo0rqEJpQvUem */
 
 const productsArray = [
   {
-      id: "price_1LnUTFDM1jwCEz8OGoOSXiSM",
+      id: "price_1NxEjKALqsWPo0rqkj0VDe5E",
       title: "Coffee",
       price: 4.99
   },
   {
-      id: "price_1LnUTxDM1jwCEz8OAqHYTwKQ",
+      id: "price_1NxEmzALqsWPo0rqJjH7ZEon",
       title: "Sunglasses",
       price: 9.99
   },
   {
-      id: "price_1LnUUoDM1jwCEz8OvxIcJ7to",
+      id: "price_1NxEo2ALqsWPo0rqEJpQvUem",
       title: "Camera",
       price: 39.99
   }
