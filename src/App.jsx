@@ -1,11 +1,17 @@
-import { useState } from 'react'
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import NavbarComponent from './components/Navbar'
+import { Container } from 'react-bootstrap'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
+      <Container>
+        <NavbarComponent>
+          
+        </NavbarComponent>
+      </Container>
       
     </>
   )
